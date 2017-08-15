@@ -1,5 +1,3 @@
-<script type="text/javascript">
-
 var s_account = "etihadmigrationtest"
 var s1=s_gi(s_account)
 s1.dynamicAccountSelection=false
